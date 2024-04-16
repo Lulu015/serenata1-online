@@ -106,19 +106,19 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url(/images/carrossel-2.jpg);
+    background-image: url(/assets/imgs/carrossel-2.jpg);
     background-size: 600px;
     background-repeat: no-repeat;
     background-position: center;
 }
 .card[for="c2"] {
-    background-image: url(/images/carrossel-3.jpg);
+    background-image: url(/assets/imgs/carrossel-3.jpg);
     background-size: 600px;
     background-repeat: no-repeat;
     background-position: center;
 }
 .card[for="c3"] {
-    background-image: url(/images/carrossel-4.jpg);
+    background-image: url(/assets/imgs/carrossel-4.jpg);
     background-size: 600px;
     background-repeat: no-repeat;
     background-position: center;
